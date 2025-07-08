@@ -32,9 +32,9 @@ This UI/UX project focuses on creating a smooth and visually appealing **signup 
 
 ## 🔗 Links
 
-- 📁 **Figma Design File**: [Click here](#) *(insert your Figma share link here)*  
-- 🎥 **Demo Video**: [Click here](#) *(upload to Google Drive or YouTube and paste link here)*  
-- 🌐 **LinkedIn Post**: [Click here](#) *(after you post your demo)*
+- 📁 **Figma Design File**: [https://www.figma.com/proto/WSjubysBfvaD2lxiNrNHxY/Untitled?node-id=0-1&t=M9mjNlgTEPSExsis-1](#) *(insert your Figma share link here)*  
+  
+  
 
 ---
 
@@ -51,7 +51,7 @@ This UI/UX project focuses on creating a smooth and visually appealing **signup 
 ## 📧 Contact Me
 
 - 📬 Email: anushabalasubramanian123@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#) *(add your LinkedIn URL)*
+- 💼 LinkedIn: [https://www.linkedin.com/posts/anusha-balasubramanian-1bb92132a](#) *(add your LinkedIn URL)*
 
 ---
 

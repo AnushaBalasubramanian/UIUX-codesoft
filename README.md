@@ -1,60 +1,68 @@
-# Travello – Travel App Signup Flow ✈️🌍
+ # UI/UX Design Internship – CodSoft (July 2025)
+👩‍💻 Designed by: *B Anusha*  
+📅 Duration: July 2025  
+🎨 Tools Used: Canva, VS Code (HTML/CSS/JS)
 
-This project is Task 1 of my **UI/UX Design Internship at CodSoft**.  
-I designed a **mobile app signup flow** for a fictional travel booking app called **Travello**, using **Figma**.
-
----
-
-## 📱 About the App
-
-**Travello** is a travel booking app that helps users explore, plan, and book their dream vacations.  
-This UI/UX project focuses on creating a smooth and visually appealing **signup journey** for new users.
+This repository contains all my project submissions for the *CodSoft UI/UX Design Internship Program*. Each task demonstrates a unique aspect of user interface and user experience design.
 
 ---
 
-## 🎨 Tools Used
-- **Figma** (Design & Prototype)
-- **Clipchamp** (Video editing)
-- **Illustrations**: unDraw, free vector assets
+## ✅ Task Overview
+
+### 🔹 Task 1: Mobile App Signup Flow – Travello
+- Designed a *travel app UI* with splash, onboarding, login, and register screens
+- Tool: *Figma*
+- Folder: Task 1/
+- [✔ View on GitHub → Task 1](./Task%201)
 
 ---
 
-## 📂 Screens Designed
-
-1. **Splash Screen** – App logo with hot air balloon
-2. **Onboarding Screens** – Informative carousel with illustrations
-3. **Login Screen** – Email & password fields with icons
-4. **Signup Screen** – User-friendly registration form
-5. **OTP Verification Screen** – Clean input for 6-digit code
-6. **Welcome Screen** – Final confirmation after signup
+### 🔹 Task 2: Email Template Design – Travello Offer
+- Created a promotional *email template* with 30% off travel deals
+- Tool: *Canva*
+- Folder: Task 2/
+- [✔ View on GitHub → Task 2](./Task%202)
 
 ---
 
-## 🔗 Links
+### 🔹 Task 3: Landing Page UI – Adventure Awaits
+- Built a modern *landing page UI* for the Travello website
+- Tool: *Canva*
+- Folder: Task 3/
+- [✔ View on GitHub → Task 3](./Task%203)
 
-- 📁 **Figma Design File**: [https://www.figma.com/proto/WSjubysBfvaD2lxiNrNHxY/Untitled?node-id=0-1&t=M9mjNlgTEPSExsis-1](#) *(insert your Figma share link here)*  
-  
-  
+---
+
+### 🔹 Task 4: Mobile App UI – FetchGo Template
+- Customized mobile UI screens (Login, Signup, Forgot Password)
+- Tool: *Canva template*
+- Folder: Task 4/
+- [✔ View on GitHub → Task 4](./Task%204)
 
 ---
 
-## 📌 Task Details
+## 🙌 Thank You, CodSoft!
 
-**Internship:** UI/UX Designer  
-**Organization:** CodSoft  
-**Task 1:** Mobile App Signup Flow  
-**Intern Name:** B Anusha  
-**GitHub Repo:** `CODSOFT`
+This internship has helped me explore:
+- UI/UX best practices
+- Responsive layouts
+- Mobile-first thinking
+- Canva & Figma tools
+
+> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+
 
 ---
+
+
 
 ## 📧 Contact Me
 
 - 📬 Email: anushabalasubramanian123@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/posts/anusha-balasubramanian-1bb92132a](#) *(add your LinkedIn URL)*
+- 💼 LinkedIn: [https://www.linkedin.com/posts/anusha-balasubramanian-1bb92132a]
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+
 
 
